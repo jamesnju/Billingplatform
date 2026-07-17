@@ -1,5 +1,6 @@
 // src/lib/auth.ts
-import { User } from './types'
+
+import { User } from "../types"
 
 const DEMO_USERS = {
   'admin@demo.com': {
